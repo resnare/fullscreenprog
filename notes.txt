@@ -1,0 +1,53 @@
+make label
+fullscreen
+splash screen in the middle opening
+admin json
+login/password
+4 button "A,B,C,D"
+find amblem for wingsluts
+
+
+
+
+
+
+qt notes
+-adjustSize() = get the all massage
+
+
+[ SAM NOTES ]
+
+- loading denmeli 
+- steam aynı boyut olacak sekilde ortalı olacak
+- tema windows user secili tema ile baslayacak 
+- sol üst amblem / görev çubuğu
+- enter basılınca calıssın
+
+-------------------------
+
+- basic log sistemi / OOS olmalı 
+- uygulama başladığındA
+- login logout activitesinde
+- 4 butona bastığında log kaydedecek
+
+-----------------
+
+- login ol
+- kayıt ol  ! 
+- oturumumu acık tut 
+
+
+-----------------
+about > biz sami abi. ile.... 
+profile >  logout 
+
+----  
+
+
+
+
+
+
+
+
+
